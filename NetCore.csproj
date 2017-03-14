@@ -118,5 +118,8 @@
     <Compile Include="Utils\Utils.cs" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
